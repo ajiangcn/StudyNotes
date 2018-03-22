@@ -6,8 +6,8 @@
   * [Natural Language Processing](deep-learning/natural-language-processing.md)
   * [Vecterization](deep-learning/what-is-vecterization.md)
   * [Paper Reference](deep-learning/paper-reference.md)
+* Robotics
+* Blockchain
 * Machine Learning
 * Algorithm
 * Statistics
-* Blockchain
-
