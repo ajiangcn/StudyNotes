@@ -9,7 +9,7 @@
   * [Vecterization](deep-learning/what-is-vecterization.md)
   * [Paper Reference](deep-learning/paper-reference.md)
 * [Distributed System](distributed-system.md)
-  *[Http/2](distributed-system/http2.md)
+  * [Http/2](distributed-system/http2.md)
 * Machine Learning
 * Robotics
 * Statistics
