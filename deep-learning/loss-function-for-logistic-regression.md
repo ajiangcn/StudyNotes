@@ -1,5 +1,4 @@
-Here is a block of math:
-
+### Log loss function
 $$
-a \ne 0
+l(\hat{y}, y) = -(y*\log\hat(y))
 $$
