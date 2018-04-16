@@ -4,7 +4,7 @@
 * Algorithm
 * Blockchain
 * [Deep Learning](deep-learning.md)
-  * [Lost Function for Logistic Regression](deep-learning/loss-function-for-logistic-regression.md)
+  * [Understanding Lost Function for Logistic Regression](deep-learning/loss-function-for-logistic-regression.md)
   * [Natural Language Processing](deep-learning/natural-language-processing.md)
   * [Vecterization](deep-learning/what-is-vecterization.md)
   * [Paper Reference](deep-learning/paper-reference.md)
