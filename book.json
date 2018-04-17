@@ -1,6 +1,12 @@
 {
     "plugins": [
         "katex",
-        "include-codeblock"
-    ]
+        "include-codeblock",
+        "ga"
+    ],
+    "pluginsConfig": {
+        "ga": {
+            "token": "UA-42945277-2"
+        }
+    }
 }
