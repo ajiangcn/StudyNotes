@@ -74,7 +74,7 @@ This post lays out a skelton to build a neural network from ground up.
 
     def predict(w, b, X):
 
-### Model
+#### Model
 
     def model(X_train, Y_train, X_test, Y_test, num_iterations, learning_rate):
         dim = ?? # learned from the training data and model definition
