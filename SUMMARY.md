@@ -4,8 +4,9 @@
 * Algorithm
 * Blockchain
 * [Deep Learning](deep-learning.md)
-  * [Understanding Lost Function for Logistic Regression](deep-learning/loss-function-for-logistic-regression.md)
+  * [Building a Neural Network from Ground Up](deep-learning/build-a-neural-network-from-ground-up.md)
   * [Natural Language Processing](deep-learning/natural-language-processing.md)
+  * [Understanding Lost Function for Logistic Regression](deep-learning/loss-function-for-logistic-regression.md)
   * [Vecterization](deep-learning/what-is-vecterization.md)
   * [Paper Reference](deep-learning/paper-reference.md)
 * [Distributed System](distributed-system.md)
