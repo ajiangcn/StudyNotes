@@ -74,7 +74,7 @@ This post lays out a skelton to build a neural network from ground up.
 
     def predict(w, b, X):
 
-#### Model
+#### Mode
 
     def model(X_train, Y_train, X_test, Y_test, num_iterations, learning_rate):
         dim = ?? # learned from the training data and model definition
@@ -87,3 +87,10 @@ This post lays out a skelton to build a neural network from ground up.
 
         perf_test = evaluate(Y_prediction_test, Y_test)
         perf_train = evaluate(Y_prediction_train, Y_train)
+
+### Build a deep neural network
+
+#### Notation
+
+$$W^{[l]}$$, $$b^{[l]}$$ donates the parameters and bias for $$l^{th}$$ layer
+$$\alpha^{[l]}$$ donates the activation for $$l^{th}$$ layer
