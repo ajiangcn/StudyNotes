@@ -94,3 +94,18 @@ This post lays out a skelton to build a neural network from ground up.
 
 $$W^{[l]}$$, $$b^{[l]}$$ donates the parameters and bias for $$l^{th}$$ layer
 $$\alpha^{[l]}$$ donates the activation for $$l^{th}$$ layer
+
+
+#### What is dropout regularization
+
+Randomly set set node to zero in the hidden layer.
+
+Cost function is not well defined.
+
+#### Other regularization technologies
+
+data augument, rotate the picture, take a portion of photo
+
+Early stop, 
+
+normalize the input, substract mean
