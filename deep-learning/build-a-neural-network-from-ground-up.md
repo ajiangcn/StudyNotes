@@ -74,7 +74,7 @@ This post lays out a skelton to build a neural network from ground up.
 
     def predict(w, b, X):
 
-#### Mode
+#### Model
 
     def model(X_train, Y_train, X_test, Y_test, num_iterations, learning_rate):
         dim = ?? # learned from the training data and model definition
@@ -92,5 +92,17 @@ This post lays out a skelton to build a neural network from ground up.
 
 #### Notation
 
-$$W^{[l]}$$, $$b^{[l]}$$ donates the parameters and bias for $$l^{th}$$ layer
+$$W^{[l]}$$, $$b^{[l]}$$ donates the parameters and bias for $$l^{th}$$ layer.
+
 $$\alpha^{[l]}$$ donates the activation for $$l^{th}$$ layer
+
+#### why does not shallow network work?
+
+Circuit theory
+
+#### Bias vs Variance
+
+Look at the train error and test error. High train error means high bias (under-fit the data), high test error means high variance (over-fit the data).
+
+High-bias -> bigger network, more iterations (train longer)
+High-variance -> more data, regularization, proper nn architecture
