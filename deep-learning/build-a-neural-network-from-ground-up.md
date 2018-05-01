@@ -106,3 +106,23 @@ Look at the train error and test error. High train error means high bias (under-
 
 High-bias -> bigger network, more iterations (train longer)
 High-variance -> more data, regularization, proper nn architecture
+
+#### What is dropout regularization
+
+Randomly set set node to zero in the hidden layer.
+
+Cost function is not well defined.
+
+#### Other regularization technologies
+
+data augument, rotate the picture, take a portion of photo
+
+Early stop, 
+
+normalize the input, substract mean, normalize variance
+
+#### Parameter initialization
+
+* speed up convergene of optimization
+* initialize the parameters to zero will not "break symmetry"
+* HE initialization scale the parameters (initialized randomly) by $$\sqrt{\dfrac{2}{dimension of previous layer}}$$
