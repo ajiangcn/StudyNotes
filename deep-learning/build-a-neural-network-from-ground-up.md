@@ -126,3 +126,4 @@ normalize the input, substract mean, normalize variance
 * speed up convergene of optimization
 * initialize the parameters to zero will not "break symmetry"
 * HE initialization scale the parameters (initialized randomly) by $$\sqrt{\dfrac{2}{dimension of previous layer}}$$
+
