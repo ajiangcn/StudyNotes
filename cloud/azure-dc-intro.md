@@ -6,8 +6,6 @@ CyrstalNet - network test tool, simulation tool
 
 project olympus
 
-PCIE bus
-
 brainwave - use fpga to improve inference latency
 
 project sea breeze
